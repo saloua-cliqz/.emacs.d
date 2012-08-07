@@ -54,6 +54,7 @@
 (require 'setup-shell)
 (require 'setup-wrap-region)
 (require 'setup-ffip)
+(require 'scala-mode)
 
 ;; Map files to modes
 (require 'mode-mappings)
